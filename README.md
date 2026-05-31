@@ -22,4 +22,5 @@
 
     ### Вікно чату
 
-    !(<img width="483" height="553" alt="image" src="https://github.com/user-attachments/assets/7d466ee1-f39b-4dc8-8407-bdd9cfcf0a18" />)
+    !(<img width="483" height="553" alt="image" src="https://github.com/user-attachments/assets/74c8319e-8f1d-425a-b970-93e550cc61fb" />
+)
